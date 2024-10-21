@@ -7,9 +7,12 @@ h1{
     font-size: 50px;
     color: #493628;
 }
-p
-nav,footer{
-    background-color: #D6C0B3;    
+p{
+    margin-top: 10em;
+}
+nav{
+    background-color: #D6C0B3;
+    
 }
 .tablo-ayari{
     background-color: #D6C0B3;
@@ -26,6 +29,18 @@ td{
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
-    height: 500px;
-    width: 500px;
+    height: 1500px;
+    width: 1500px;
+}
+#hakkimizda{
+    margin-top: 3em;   
+}
+.menu{
+    color: #ffffff;
+    background-image: url(/img/1.jpg);
+    padding: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6em;
+    margin-bottom: auto;
 }
