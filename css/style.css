@@ -7,7 +7,8 @@ h1{
     font-size: 50px;
     color: #493628;
 }
-nav{
+p
+nav,footer{
     background-color: #D6C0B3;    
 }
 .tablo-ayari{
@@ -23,6 +24,8 @@ td{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     height: 500px;
     width: 500px;
 }
