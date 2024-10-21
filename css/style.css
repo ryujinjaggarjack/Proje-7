@@ -1,0 +1,28 @@
+body{
+    background-color: #E4E0E1;
+}
+h1{
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 50px;
+    color: #493628;
+}
+nav{
+    background-color: #D6C0B3;    
+}
+.tablo-ayari{
+    background-color: #D6C0B3;
+    width: 25%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    text-align:center ;
+}
+.logo-ayari{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
