@@ -8,7 +8,7 @@ h1{
     color: #493628;
 }
 p{
-    margin-top: 10em;
+    margin-top: 6em;
 }
 nav{
     background-color: #D6C0B3;
@@ -19,28 +19,45 @@ nav{
     width: 25%; 
     margin-left: auto;
     margin-right: auto;
+    td{
+        text-align:center ;
+    }
 }
-td{
-    text-align:center ;
-}
+
 .logo-ayari{
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
-    height: 1500px;
-    width: 1500px;
+    height: 150px;
+    width: 150px;
 }
 #hakkimizda{
-    margin-top: 3em;   
+    margin-top: 12em;   
 }
 .menu{
-    color: #ffffff;
-    background-image: url(/img/1.jpg);
-    padding: 20%;
+    color:black;    
+    background-image: url(/img/3.jpg);
+    padding: 15%;
+    padding-bottom: 25%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 6em;
     margin-bottom: auto;
+    text-align: center;
+    width: 85%;
+    
+    td{
+        
+        text-align: right;
+    }
+    th{
+        text-align: right;
+    }
 }
+.shadows-into-light-regular {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
